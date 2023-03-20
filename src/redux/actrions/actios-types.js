@@ -1,5 +1,2 @@
-const peliculas = "PELICULAS";
+export const PELICULAS = "PELICULAS";
 
-export default {
-    peliculas
-}
